@@ -1,0 +1,30 @@
+{
+  "name": "techan",
+  "description": "A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.",
+  "main": "dist/techan.js",
+  "ignore": [
+    "Gruntfile.js",
+    "lib",
+    "package.json",
+    "src",
+    "test",
+    "/.*",
+    "karma.conf.js",
+    "examples"
+  ],
+  "dependencies": {
+    "d3": "~4.2.6"
+  },
+  "homepage": "https://github.com/andredumas/techan.js",
+  "version": "0.8.0",
+  "_release": "0.8.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.8.0",
+    "commit": "f68d327facf4d331948ca109440e9320bbe9fe46"
+  },
+  "_source": "https://github.com/andredumas/techan.js.git",
+  "_target": "^0.8.0",
+  "_originalSource": "techan",
+  "_direct": true
+}

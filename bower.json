@@ -1,0 +1,24 @@
+{
+  "name": "exchangegraphic",
+  "authors": [
+    "Peter <peter@hd.net.nz>"
+  ],
+  "description": "techain js for the graphic",
+  "main": "js",
+  "keywords": [
+    "js"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "techan": "^0.8.0",
+    "jquery": "^3.2.1"
+  }
+}
